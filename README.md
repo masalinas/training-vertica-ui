@@ -1,2 +1,8 @@
 # training-vertica-ui
-Training Vertica Frontend UI
+Vertica Training Frontend UI
+
+# start app from shell
+ng serve
+
+# compile in production
+ng build --prod
